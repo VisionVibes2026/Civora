@@ -1,0 +1,20 @@
+[
+  {
+    "act_name": "Multi-State Co-operative Societies Act, 2002",
+    "act_code": "MSCS_2002",
+    "jurisdiction": "Central",
+    "section": "Section 84",
+    "title": "Reference of Disputes to Arbitration",
+    "summary": "Disputes touching constitution, management, elections, or business of multi-state societies referred to arbitration by Central Registrar.",
+    "competent_forum": "Central Registrar of Cooperative Societies, New Delhi"
+  },
+  {
+    "act_name": "Tamil Nadu Co-operative Societies Act, 1983",
+    "act_code": "TNCSA_1983",
+    "jurisdiction": "Tamil Nadu",
+    "section": "Section 90",
+    "title": "Disputes and Surcharge Proceedings",
+    "summary": "Any dispute touching constitution, management or business of a registered society shall be referred to Registrar.",
+    "competent_forum": "Deputy Registrar of Cooperative Societies (Circle Level)"
+  }
+]

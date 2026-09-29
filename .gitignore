@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+
+# Production build outputs
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+
+# Python artifacts & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+*.sqlite3
+civora_dev.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment secrets
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE & OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

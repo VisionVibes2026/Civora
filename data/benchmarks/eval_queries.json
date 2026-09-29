@@ -1,0 +1,34 @@
+[
+  {
+    "id": "eval_01",
+    "language": "en",
+    "query": "I am a paddy farmer and my crop is damaged by heavy rains. How do I get loan waiver?",
+    "expected_intent": "scheme_inquiry",
+    "expected_act_or_scheme": "TN_COOP_WAIVER",
+    "expected_jurisdiction": "Tamil Nadu"
+  },
+  {
+    "id": "eval_02",
+    "language": "ta",
+    "query": "கனமழையால் நெல் பயிர் சேதம் அடைந்துள்ளது. கடன் தள்ளுபடி பெற என்ன செய்ய வேண்டும்?",
+    "expected_intent": "scheme_inquiry",
+    "expected_act_or_scheme": "TN_COOP_WAIVER",
+    "expected_jurisdiction": "Tamil Nadu"
+  },
+  {
+    "id": "eval_03",
+    "language": "en",
+    "query": "The PACS secretary is refusing to accept my election nomination. What legal section applies?",
+    "expected_intent": "legal_inquiry",
+    "expected_act_or_scheme": "TNCSA_1983",
+    "expected_section": "Section 90"
+  },
+  {
+    "id": "eval_04",
+    "language": "en",
+    "query": "How to draft a formal grievance representation for audit inspection?",
+    "expected_intent": "grievance",
+    "expected_act_or_scheme": "TNCSA_1983",
+    "expected_section": "Section 81"
+  }
+]

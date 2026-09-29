@@ -1,0 +1,28 @@
+{
+  "name": "civora",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Multilingual AI assistant for cooperative services and rural support",
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=frontend",
+    "build": "npm run build --workspace=frontend",
+    "lint": "npm run lint --workspace=frontend",
+    "preview": "npm run preview --workspace=frontend",
+    "test:frontend": "npm run build --workspace=frontend",
+    "test:backend": "python -m pytest backend/tests -v",
+    "test": "npm run build --workspace=frontend && python -m pytest backend/tests -v"
+  },
+  "keywords": [
+    "cooperative-governance",
+    "rural-assistance",
+    "multilingual-ai",
+    "indic-languages",
+    "fastapi",
+    "react19"
+  ],
+  "author": "Civora Contributors",
+  "license": "MIT"
+}

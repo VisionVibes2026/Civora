@@ -1,0 +1,38 @@
+[
+  {
+    "id": "scheme_pacs_comp",
+    "code": "NCDC_PACS_COMP",
+    "name": "Computerization of Primary Agricultural Credit Societies (PACS)",
+    "department": "Ministry of Cooperation, Government of India",
+    "level": "Central",
+    "category": "Cooperative Modernization",
+    "summary": "Centrally sponsored project to digitize 63,000 PACS across India with standard cloud ERP software.",
+    "benefits": [
+      "Online member loan tracking",
+      "Direct linkage with NABARD and DCCBs",
+      "Transparent automated book-keeping"
+    ],
+    "eligibility_criteria": [
+      "Registered Primary Agricultural Cooperative Credit Society"
+    ],
+    "portal_url": "https://cooperation.gov.in"
+  },
+  {
+    "id": "scheme_tn_crop_waiver",
+    "code": "TN_COOP_WAIVER",
+    "name": "Tamil Nadu Cooperative Crop Loan Waiver Scheme",
+    "department": "Co-operation, Food and Consumer Protection Department, Govt of Tamil Nadu",
+    "level": "State",
+    "state": "Tamil Nadu",
+    "category": "Debt Relief & Credit Support",
+    "summary": "Waiver of outstanding crop loans for small & marginal farmers holding up to 5 acres.",
+    "benefits": [
+      "Waiver of outstanding principal and interest on short-term crop loans."
+    ],
+    "eligibility_criteria": [
+      "Member of registered PACCS in Tamil Nadu",
+      "Land holding up to 5.00 acres with valid Patta / Chitta"
+    ],
+    "portal_url": "https://tnpacs.tn.gov.in"
+  }
+]
