@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "description": "Multilingual AI assistant for cooperative services and rural support",
   "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
